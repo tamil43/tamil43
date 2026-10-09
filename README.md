@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tamilarasu 👋
 
-<!--
-**tamil43/tamil43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year IT Undergraduate | Aspiring Data Scientist & AI Engineer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+* 🔭 I’m currently building machine learning models and predictive analytics systems.
+* 🌱 Deeply interested in **Retrieval-Augmented Generation (RAG)**, **LightGBM**, and **Data Science**.
+* 📫 Reach out to me: **tamilarasud430@gmail.com**
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <!-- Replace 'your-username' with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tamil43&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil43&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil43&theme=radical&hide_border=true" width="100%" />
+</p>
